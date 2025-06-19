@@ -23,6 +23,40 @@
                 background-size: 100%;
             }
 
+            .nav {
+                text-align: center;
+                display: grid;
+                place-items: center;
+                background-color: aqua;
+            }
+
+            .nav button {
+                color: #616161;
+                font-family: 'Nintendo';
+                font-size: 50;
+                display: block;
+                padding: 5px 10px;
+                width: 220px;
+                margin-top: 5px;
+                background-image: linear-gradient(#dadcde, white 50%, #dadcde 50%, white);
+                border-width: 1px;
+                border-style: inset;
+                border-color: #dadcde;
+                border-radius: 5px;
+                filter: drop-shadow(0 0 2px gray);
+            }
+
+            .nav button:first-child{
+                margin-top: 10px;
+            }
+
+            .nav button:last-child{
+                margin-bottom: 10px;
+            }
+
+            .nav button:hover{
+                background-color: aqua;
+            }
             * {
                 box-sizing: border-box;
             }
