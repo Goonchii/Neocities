@@ -44,6 +44,60 @@
                 filter: drop-shadow(0 0 2px gray);
             }
 
+            .redbutton {
+                background-image: linear-gradient(#f03d84, #ff7cb0 50%, #fd5196 50%, #ff7cb0);
+                border-color: #f03d84;
+            }
+            .redbutton:hover {
+                background-image: linear-gradient(#ffc0d9, #ff7cb0 50%, #fd5196 50%, #fdaacb);
+                border-color: #f03d84;
+            }
+
+            .orangebutton {
+                background-image: linear-gradient(#f07d35, #ffa66e 50%, #fd8438 50%, #ffa66e);
+                border-color: #f07d35;
+            }
+            .orangebutton:hover {
+                background-image: linear-gradient(#ffccac, #ffa66e 50%, #fd8438 50%, #fcc09b);
+                border-color: #f07d35;
+            }
+
+            .yellowbutton {
+                background-image: linear-gradient(#f0b136, #ffd580 50%, #fdbe40 50%, #ffd580);
+                border-color: #f0b136;
+            }
+            .yellowbutton:hover {
+                background-image: linear-gradient(#ffe9be, #ffd580 50%, #fdbe40 50%, #ffe1a5);
+                border-color: #f0b136;
+            }
+
+            .greenbutton {
+                background-image: linear-gradient(#7fc938, #a0f750 50%, #82cf3a 50%, #a0f750);
+                border-color: #7fc938;
+            }
+            .greenbutton:hover {
+                background-image: linear-gradient(#beff81, #a0f750 50%, #82cf3a 50%, #c1fc8b);
+                border-color: #7fc938;
+            }
+
+            .bluebutton {
+                background-image: linear-gradient(#14c9dd, #45ecff 50%, #14c9dd 50%, #45ecff);
+                border-color: #14c9dd;
+            }
+            .bluebutton:hover {
+                background-image: linear-gradient(#99eff8, #45ecff 50%, #14c9dd 50%, #93f4ff);
+                border-color: #14c9dd;
+            }
+
+            .purplebutton {
+                background-image: linear-gradient(#a037f0, #c06dff 50%, #ac41fd 50%, #c06dff);
+                border-color: #a037f0;
+            }
+            .purplebutton:hover {
+                background-image: linear-gradient(#ce93fc, #c06dff 50%, #ac41fd 50%, #cf90ff);
+                border-color: #a037f0;
+            }
+
             .nav button:first-child{
                 margin-top: 10px;
             }
