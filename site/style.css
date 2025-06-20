@@ -116,6 +116,16 @@
                 font-size: 24;
             }
 
+            .bubbles {
+                white-space: nowrap;
+                padding: 0;
+            }
+
+            .bubblesline {
+                list-style: none;
+                display: inline;
+            }
+
             * {
                 box-sizing: border-box;
             }
