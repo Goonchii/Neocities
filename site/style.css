@@ -106,6 +106,19 @@
                 margin-bottom: 10px;
             }
 
+            .todo {
+                margin-top: 10px;
+                text-align: left;
+                font-family: Nintendo;
+                font-size: 18px;
+                border: 1px solid black;
+                width: 210px; 
+                height: 100px; 
+                overflow: auto
+            }
+            .todo, ul {
+                list-style: none;
+                padding: 0;
             }
 
             .welcome {
