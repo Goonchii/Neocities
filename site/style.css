@@ -31,17 +31,15 @@
             }
 
             .nav button {
-                color: #616161;
+                color: white;
                 font-family: 'Nintendo';
                 font-size: 50;
                 display: block;
                 padding: 5px 10px;
-                width: 220px;
+                width: 200px;
                 margin-top: 5px;
-                background-image: linear-gradient(#dadcde, white 50%, #dadcde 50%, white);
                 border-width: 1px;
                 border-style: inset;
-                border-color: #dadcde;
                 border-radius: 5px;
                 filter: drop-shadow(0 0 2px gray);
             }
