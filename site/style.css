@@ -114,17 +114,26 @@
 
             .todo {
                 margin-top: 10px;
-                text-align: left;
+                margin-bottom: 10px;
+                margin-left: 10px;
                 font-family: Nintendo;
-                font-size: 18px;
-                border: 1px solid black;
+                font-size: 24px;
+                color: #7e5353;
+                border: dashed;
+                border-radius: 5px;
+                border-color: #7a5252;
                 width: 210px; 
                 height: 100px; 
-                overflow: auto
+                overflow: auto;
+                background-color: white;
             }
-            .todo, ul {
+            .todolist {
                 list-style: none;
-                padding: 0;
+                padding: 5;
+                margin-top: 0;
+                margin-bottom: 0;
+                text-align: left;
+            }
             }
 
             .welcome {
