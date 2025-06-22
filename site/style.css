@@ -104,6 +104,14 @@
                 margin-bottom: 10px;
             }
 
+            .h1 {
+                font-family: Nintendo;
+                font-size: 35px;
+                color: white;
+                background-color: #664040;
+                padding-left: 10px;
+            }
+
             .todo {
                 margin-top: 10px;
                 text-align: left;
