@@ -134,6 +134,30 @@
                 margin-bottom: 0;
                 text-align: left;
             }
+
+            .pink {
+                background-color: white;
+                color: #f03d84;
+            }
+            .orange {
+                background-color: white;
+                color: #f07d35;
+            }
+            .yellow {
+                background-color: white;
+                color: #f0b136;
+            }
+            .green {
+                background-color: white;
+                color: #7fc938;
+            }
+            .blue {
+                background-color: white;
+                color: #14c9dd;
+            }
+            .purple {
+                background-color: white;
+                color: #a037f0;
             }
 
             .welcome {
