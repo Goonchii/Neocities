@@ -104,6 +104,25 @@
                 margin-bottom: 10px;
             }
 
+            .homebutton {
+                background-image: linear-gradient(#543030, #854d54 50%, #5c3232 50%, #854d54);
+                border-color: #3c0f15;
+                color: white;
+                font-family: 'Nintendo';
+                font-size: 50;
+                display: block;
+                padding: 5px 10px;
+                width: 150px;
+                border-width: 1px;
+                border-style: inset;
+                border-radius: 5px;
+                filter: drop-shadow(0 0 2px gray);
+            }
+            .homebutton:hover {
+                background-image: linear-gradient(#815e5e, #854d54 50%, #5c3838 50%, #9e7176);
+                border-color: #3c0f15;
+            }
+
             .h1 {
                 font-family: Nintendo;
                 font-size: 35px;
