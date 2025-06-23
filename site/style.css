@@ -216,6 +216,17 @@
                 padding: 0;
             }
 
+            .graphics {
+                background-color: #a58080; 
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                border-top: none;
+                overflow-y: auto;
+                overflow-x: hidden;
+            }
+
             * {
                 box-sizing: border-box;
             }
