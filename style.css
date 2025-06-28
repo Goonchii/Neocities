@@ -227,6 +227,16 @@
                 overflow-x: hidden;
             }
 
+            marquee {
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                border-top: none;
+                overflow-y: auto;
+                overflow-x: hidden;
+            }
+
             * {
                 box-sizing: border-box;
             }
